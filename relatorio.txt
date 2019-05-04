@@ -1,0 +1,7 @@
+Primeiro passo 
+mkdir (nome da pasta) para criar a pasta
+cd (nome da pasta) para acessar a pasta
+touch (nome do arquivo) para criar o arquivo
+git add (nome do arquivo) para jogar o arquivo pro stage
+git commit -m (nome do arquivo para jogar para o repositorio
+git remote origin master http://github.com/fulanodasilva/algumacoisa para 

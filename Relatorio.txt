@@ -16,5 +16,18 @@ git clone https://github.com/maykonhah/maykon9110 *// clonar a pasta
 git pull
 em seguida editei o arquivo, e dei um git add, para adicionar no stage, dps git commit -m "Mensagem" para comitar
 dps git push -f origin master para enviar arquivo.
-
-
+Alterações feitas por Edenilton
+git --global user.name "Andrei" *//Identificar o nome da pessoa que vai fazer alterações
+git config --global user.email andrei.g.carmo@gmail.com
+git init
+mkdir aula11
+git clone https://github.com/maykonhah/maykon9110 *// clonar a pasta
+git pull
+em seguida editei o arquivo, e dei um git add, para adicionar no stage, dps git commit -m "Mensagem" para comitar
+dps git push -f origin master para enviar arquivo.
+Alteraçoes feitas por Maykon
+git pull pra atualizar os arquivos modificados pelos "MIGOS"
+vi nomedoarquivo.est pra editar o arquivo
+git add pra adicionar pro stage, dps git commit -m "mensagem" pra comitar
+git push pra enviar o arquivo editado
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::FIM BOM FINAL DE SEMANA PROFESSORA QUERIDA::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

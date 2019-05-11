@@ -6,3 +6,12 @@ git add (nome do arquivo) para jogar o arquivo pro stage
 git commit -m (nome do arquivo para jogar para o repositorio
 git remote origin master http://github.com/fulanodasilva/algumacoisa para verificar que esta no diretorio correto
 git push para enviar o arquivo.
+10.05.2019
+Alterações feito por Andrei
+git config --global user.name "Andrei" *//Identificar o nome da pessoa que vai fazer alterações
+git config --global user.email andrei.g.carmo@gmail.com
+git init
+mkdir aula10
+git clone https://github.com/maykonhah/maykon9110 *// clonar a pasta
+git pull
+
